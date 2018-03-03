@@ -1,0 +1,89 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeDemo", "TreeDemo\TreeDemo.csproj", "{37C59D9D-C319-4D09-BAF5-7617135ECD48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertSort", "InsertSort\InsertSort.csproj", "{DD315D3A-49DA-49B5-A3CF-556AC692F564}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Sort", "01.Sort", "{5BAA761A-94D1-446F-A471-83523A006F16}"
+	ProjectSection(SolutionItems) = preProject
+		Readme-Sort.txt = Readme-Sort.txt
+		Resources\排序.jpg = Resources\排序.jpg
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeSort", "ExchangeSort\ExchangeSort.csproj", "{DC77E643-28FE-4593-87DB-223BE01165B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectSort", "SelectSort\SelectSort.csproj", "{3E695FAE-45ED-4564-967E-773368F98D3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "MergeSort\MergeSort.csproj", "{45618D87-C0A9-4DE9-B6E3-7FD98267E9BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.Search", "06.Search", "{F4344FB4-55DF-4F40-AF42-B53DF3B28D79}"
+	ProjectSection(SolutionItems) = preProject
+		Readme-Search.txt = Readme-Search.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search", "Search\Search.csproj", "{ECC2CE06-6945-4824-85B9-8DBACD5B0DB8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07.LinearStruct", "07.LinearStruct", "{B3DC744E-02CF-4387-843E-5A0A197C8C02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearStruct", "LinearStruct\LinearStruct.csproj", "{E3997EC3-CDD5-4FC2-A85E-C320850BA674}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08.TreeStruct", "08.TreeStruct", "{79DED753-1B19-4F0A-B987-CC52E49ABF35}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09.Graphics", "09.Graphics", "{7E358FB1-1779-44A7-A261-EFC05BB2449B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicsDemo", "GraphicsDemo\GraphicsDemo.csproj", "{F35C88FF-0202-4005-8C47-C9E9CFFDE176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37C59D9D-C319-4D09-BAF5-7617135ECD48}.Debug|x86.ActiveCfg = Debug|x86
+		{37C59D9D-C319-4D09-BAF5-7617135ECD48}.Debug|x86.Build.0 = Debug|x86
+		{37C59D9D-C319-4D09-BAF5-7617135ECD48}.Release|x86.ActiveCfg = Release|x86
+		{37C59D9D-C319-4D09-BAF5-7617135ECD48}.Release|x86.Build.0 = Release|x86
+		{DD315D3A-49DA-49B5-A3CF-556AC692F564}.Debug|x86.ActiveCfg = Debug|x86
+		{DD315D3A-49DA-49B5-A3CF-556AC692F564}.Debug|x86.Build.0 = Debug|x86
+		{DD315D3A-49DA-49B5-A3CF-556AC692F564}.Release|x86.ActiveCfg = Release|x86
+		{DD315D3A-49DA-49B5-A3CF-556AC692F564}.Release|x86.Build.0 = Release|x86
+		{DC77E643-28FE-4593-87DB-223BE01165B4}.Debug|x86.ActiveCfg = Debug|x86
+		{DC77E643-28FE-4593-87DB-223BE01165B4}.Debug|x86.Build.0 = Debug|x86
+		{DC77E643-28FE-4593-87DB-223BE01165B4}.Release|x86.ActiveCfg = Release|x86
+		{DC77E643-28FE-4593-87DB-223BE01165B4}.Release|x86.Build.0 = Release|x86
+		{3E695FAE-45ED-4564-967E-773368F98D3E}.Debug|x86.ActiveCfg = Debug|x86
+		{3E695FAE-45ED-4564-967E-773368F98D3E}.Debug|x86.Build.0 = Debug|x86
+		{3E695FAE-45ED-4564-967E-773368F98D3E}.Release|x86.ActiveCfg = Release|x86
+		{3E695FAE-45ED-4564-967E-773368F98D3E}.Release|x86.Build.0 = Release|x86
+		{45618D87-C0A9-4DE9-B6E3-7FD98267E9BE}.Debug|x86.ActiveCfg = Debug|x86
+		{45618D87-C0A9-4DE9-B6E3-7FD98267E9BE}.Debug|x86.Build.0 = Debug|x86
+		{45618D87-C0A9-4DE9-B6E3-7FD98267E9BE}.Release|x86.ActiveCfg = Release|x86
+		{45618D87-C0A9-4DE9-B6E3-7FD98267E9BE}.Release|x86.Build.0 = Release|x86
+		{ECC2CE06-6945-4824-85B9-8DBACD5B0DB8}.Debug|x86.ActiveCfg = Debug|x86
+		{ECC2CE06-6945-4824-85B9-8DBACD5B0DB8}.Debug|x86.Build.0 = Debug|x86
+		{ECC2CE06-6945-4824-85B9-8DBACD5B0DB8}.Release|x86.ActiveCfg = Release|x86
+		{ECC2CE06-6945-4824-85B9-8DBACD5B0DB8}.Release|x86.Build.0 = Release|x86
+		{E3997EC3-CDD5-4FC2-A85E-C320850BA674}.Debug|x86.ActiveCfg = Debug|x86
+		{E3997EC3-CDD5-4FC2-A85E-C320850BA674}.Debug|x86.Build.0 = Debug|x86
+		{E3997EC3-CDD5-4FC2-A85E-C320850BA674}.Release|x86.ActiveCfg = Release|x86
+		{E3997EC3-CDD5-4FC2-A85E-C320850BA674}.Release|x86.Build.0 = Release|x86
+		{F35C88FF-0202-4005-8C47-C9E9CFFDE176}.Debug|x86.ActiveCfg = Debug|x86
+		{F35C88FF-0202-4005-8C47-C9E9CFFDE176}.Debug|x86.Build.0 = Debug|x86
+		{F35C88FF-0202-4005-8C47-C9E9CFFDE176}.Release|x86.ActiveCfg = Release|x86
+		{F35C88FF-0202-4005-8C47-C9E9CFFDE176}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{37C59D9D-C319-4D09-BAF5-7617135ECD48} = {79DED753-1B19-4F0A-B987-CC52E49ABF35}
+		{DD315D3A-49DA-49B5-A3CF-556AC692F564} = {5BAA761A-94D1-446F-A471-83523A006F16}
+		{DC77E643-28FE-4593-87DB-223BE01165B4} = {5BAA761A-94D1-446F-A471-83523A006F16}
+		{3E695FAE-45ED-4564-967E-773368F98D3E} = {5BAA761A-94D1-446F-A471-83523A006F16}
+		{45618D87-C0A9-4DE9-B6E3-7FD98267E9BE} = {5BAA761A-94D1-446F-A471-83523A006F16}
+		{ECC2CE06-6945-4824-85B9-8DBACD5B0DB8} = {F4344FB4-55DF-4F40-AF42-B53DF3B28D79}
+		{E3997EC3-CDD5-4FC2-A85E-C320850BA674} = {B3DC744E-02CF-4387-843E-5A0A197C8C02}
+		{F35C88FF-0202-4005-8C47-C9E9CFFDE176} = {7E358FB1-1779-44A7-A261-EFC05BB2449B}
+	EndGlobalSection
+EndGlobal
